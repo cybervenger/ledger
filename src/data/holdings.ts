@@ -33,4 +33,5 @@ export const holdings: Holding[] = [
   { symbol: "VOGL", name: "Vedanta Oil & Gas (VOGL)", qty: 235, cmpFallback: 32.87 },
   { symbol: "VEDPOWER", name: "Vedanta Power", qty: 235, cmpFallback: 41.03 },
   { symbol: "MAZDOCK", name: "Mazagon Dock", qty: 20, avgCost: 2730.26, cmpFallback: 2541.7 },
+  { symbol: "WIPRO", name: "WIPRO", qty: 92, avgCost: 166, cmpFallback: 171.5 }
 ];
