@@ -24,7 +24,7 @@ export const holdings: Holding[] = [
   { symbol: "ONGC", name: "ONGC", qty: 30, cmpFallback: 246.25 },
   { symbol: "RGREENWND", name: "GreenPower", qty: 250, cmpFallback: 11.13 },
   { symbol: "RAILTEL", name: "RailTel", qty: 30, cmpFallback: 319.4 },
-  { symbol: "VEDL", name: "Vedanta", qty: 343, cmpFallback: 300.8 },
+  { symbol: "VEDL", name: "Vedanta", qty: 400, cmpFallback: 300.8 },
   { symbol: "VIKASECO", name: "Vikas Ecotech", qty: 1500, cmpFallback: 1.27 },
   { symbol: "VISL", name: "Vardhman Special Steels", qty: 235, cmpFallback: 25.57 },
   { symbol: "VAML", name: "Vedanta Aluminium (VAML)", qty: 235, cmpFallback: 457.77 },
